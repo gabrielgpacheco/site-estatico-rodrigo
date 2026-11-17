@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://rodrigosantana.com.br/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rodrigosantana.com.br/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://rodrigosantana.com.br/pt/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rodrigosantana.com.br/"/>
+  </url>
+  <url>
+    <loc>https://rodrigosantana.com.br/pt/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rodrigosantana.com.br/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://rodrigosantana.com.br/pt/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rodrigosantana.com.br/"/>
+  </url>
+</urlset>
